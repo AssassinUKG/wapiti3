@@ -1,7 +1,7 @@
 # wapiti3
 
 ## Screenshot
-![](/assets/capture.PNG)
+![](/assets/Capture.PNG)
 
 ## Function
 
