@@ -51,7 +51,10 @@ wapiti -u http://192.168.222.99:33333/
 ```
 
 Wapiti-3.0.3 (wapiti.sourceforge.net)
-usage: wapiti [-h] [-u URL] [--scope {page,folder,domain,url,punk}]
+
+usage:
+
+wapiti [-h] [-u URL] [--scope {page,folder,domain,url,punk}]
 
               [-m MODULES_LIST] [--list-modules] [--update] [-l LEVEL]
               [-p PROXY_URL] [--tor] [-a CREDENTIALS]
