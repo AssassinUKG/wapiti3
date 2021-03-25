@@ -1,5 +1,8 @@
 # wapiti3
 
+## Screenshot
+![](/assets/capture.PNG)
+
 ## Function
 
 File disclosure (Local and remote include/require, fopen, readfile...)
@@ -55,5 +58,4 @@ usage: wapiti [-h] [-u URL] [--scope {page,folder,domain,url,punk}]
               [--endpoint ENDPOINT_URL] [--no-bugreport] [--version]
               
               
-## Screenshot
-![](/assets/img.png)
+
