@@ -11,9 +11,6 @@ It performs "black-box" scans (it does not study the source code) of the web app
 
 Once it gets the list of URLs, forms and their inputs, Wapiti acts like a fuzzer, injecting payloads to see if a script is vulnerable
 
-## Screenshot
-![](/assets/Capture.PNG)
-
 ## Function
 
 - File disclosure (Local and remote include/require, fopen, readfile...)
@@ -34,6 +31,9 @@ Once it gets the list of URLs, forms and their inputs, Wapiti acts like a fuzzer
 - Brute Force login form (using a dictionary list)
 - Cheking HTTP security headers
 - Checking cookie security flags (secure and httponly flags)
+
+## Screenshot
+![](/assets/Capture.PNG)
 
 ## Install
 ```
